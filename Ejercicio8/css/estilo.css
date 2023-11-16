@@ -1,0 +1,55 @@
+#page{
+  width: 100%;
+  padding: 13px;
+  background-color: rgb(200, 200, 200);
+}
+
+#frame{
+  background-color: white;
+  border-radius: 9px;
+}
+
+
+#introduccion{
+  border: gray 1px solid;
+  width: 74%;
+  padding: 12px;
+  margin-left: 200px;
+  margin-right: 12px;
+  padding-bottom: 43px;
+}
+
+body{
+    font-family:'Lucida Sans Unicode';
+    width: 900px;
+  }
+
+  ul{
+    width: 15%;
+    float: left;
+    display: block;
+    margin: 7px;
+    list-style: none;
+  }
+
+em{
+    color:rgb(0, 86, 136);  
+  }
+  
+h1{
+    color: rgb(5, 146, 0) ;
+    letter-spacing: 5px;
+    text-align:center;
+  }
+
+span { color: rgb(192, 131, 0) }
+
+h2{
+    color:rgb(0, 192, 42);
+    border-bottom: 1px solid;
+    border-color:gray;
+  }
+
+  h3{
+    color:rgb(235, 152, 0);
+  }
