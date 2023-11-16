@@ -2,7 +2,7 @@
 
 https://jancossio.github.io/jcr-ts-TA28-HTML_CSS-git-141123/
 
-# Ejercicios
+## Ejercicios
 
 1. [Ejercicio 1](https://jancossio.github.io/jcr-ts-TA28-HTML_CSS-git-141123/Ejercicio1/)
 2. [Ejercicio 2](https://jancossio.github.io/jcr-ts-TA28-HTML_CSS-git-141123/Ejercicio2/)
